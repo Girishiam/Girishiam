@@ -1,9 +1,7 @@
 <h1 align="center">Hi 👋, I'm Girish Mondal</h1>
-<h3 align="center">A passionate developer from Bangladesh.</h3>
+<h3 align="center">A passionate Developer and ML Enthusiast from Bangladesh.</h3>
 
-- 🔭 I’m currently working on **a rest api project**
-
-- 🌱 I’m currently learning **Angular,Rest API**
+I’m a passionate web developer and machine learning enthusiast who graduated in 2023 with a degree in Computer Science and Engineering. My academic journey was marked by hands-on projects that allowed me to explore web technologies and dive deep into the world of artificial intelligence. I’ve worked on several web development and ML-based projects, honing my skills in building responsive, dynamic websites and leveraging data-driven models to solve real-world problems. With a strong foundation in programming, problem-solving, and a desire to keep learning, I am excited about the future of technology. I aspire to further my knowledge by pursuing higher education abroad, where I can contribute to cutting-edge research and innovation.
 
 - 👨‍💻 All of my projects are available at [https://github.com/Girishiam](https://github.com/Girishiam)
 
