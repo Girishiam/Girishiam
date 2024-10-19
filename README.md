@@ -7,6 +7,8 @@ I’m a passionate web developer and machine learning enthusiast who graduated i
 
 - 📫 How to reach me **girishmondal.28@gmail.com**
 
+- 👨‍💻 Portfolio [www.girishmondal.com]
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/girishh_mondal" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="girishh_mondal" height="30" width="40" /></a>
