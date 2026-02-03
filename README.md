@@ -7,7 +7,7 @@ I’m a passionate web developer and machine learning enthusiast who graduated i
 
 - 📫 How to reach me **girishmondal.28@gmail.com**
 
-- 👨‍💻 Portfolio [www.girishmondal.com]
+- 👨‍💻 Portfolio [https://portfoliyo-updated.vercel.app/]
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
