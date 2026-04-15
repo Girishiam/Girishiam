@@ -1,26 +1,112 @@
-<h1 align="center">Hi 👋, I'm Girish Mondal</h1>
-<h3 align="center">A passionate Developer and ML Enthusiast from Bangladesh.</h3>
+<div align="center">
 
-I’m a passionate web developer and machine learning enthusiast who graduated in 2023 with a degree in Computer Science and Engineering. My academic journey was marked by hands-on projects that allowed me to explore web technologies and dive deep into the world of artificial intelligence. I’ve worked on several web development and ML-based projects, honing my skills in building responsive, dynamic websites and leveraging data-driven models to solve real-world problems. With a strong foundation in programming, problem-solving, and a desire to keep learning, I am excited about the future of technology. I aspire to further my knowledge by pursuing higher education abroad, where I can contribute to cutting-edge research and innovation.
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00D9FF&center=true&vCenter=true&width=560&lines=Full-Stack+Web+Developer;Machine+Learning+Enthusiast;CSE+Graduate+%7C+Bangladesh;Crafting+elegant+code+%26+smart+systems.;Always+building%2C+always+learning." alt="Typing SVG" />
 
-- 👨‍💻 All of my projects are available at [https://github.com/Girishiam](https://github.com/Girishiam)
+</div>
 
-- 📫 How to reach me **girishmondal.28@gmail.com**
+---
 
-- 👨‍💻 Portfolio [https://portfoliyo-updated.vercel.app/]
+<img align="right" width="380" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="coding gif"/>
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/girishh_mondal" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="girishh_mondal" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/girishhmo" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="girishhmo" height="30" width="40" /></a>
-<a href="https://fb.com/girishhmo" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="girishhmo" height="30" width="40" /></a>
-<a href="https://instagram.com/girisshmo" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="girisshmo" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/grinchop" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="grinchop" height="30" width="40" /></a>
-</p>
+### `$ whoami`
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://pytorch.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> </a> <a href="https://sass-lang.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> </a> <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/> </a> </p>
+> A passionate **web developer** and **ML enthusiast** from 🇧🇩 **Bangladesh**, who graduated in **2023** with a degree in Computer Science & Engineering.
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=girishiam&show_icons=true&theme=dracula&locale=en&layout=compact" alt="girishiam" /></p>
+I build things for the web and train models to make sense of data. My work lives at the intersection of **clean interfaces** and **intelligent systems** — responsive frontends by day, neural nets by night.
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=girishiam&show_icons=true&theme=dracula&locale=en" alt="girishiam" /></p>
+- 🔭 &nbsp; Currently deepening expertise in **full-stack development** and **applied ML**
+- 🎯 &nbsp; Goal: Pursue **higher education abroad** to contribute to cutting-edge research
+- 🛠️ &nbsp; Projects live at → **[github.com/Girishiam](https://github.com/Girishiam)**
+- 🌐 &nbsp; Portfolio → **[portfoliyo-updated.vercel.app](https://portfoliyo-updated.vercel.app/)**
+- 📬 &nbsp; Reach me at → **girishmondal.28@gmail.com**
+
+---
+
+### `$ tech --stack`
+
+<div align="center">
+
+**Languages**
+
+![Python](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+
+**Frontend**
+
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![Sass](https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
+
+**Backend & Frameworks**
+
+![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![REST API](https://img.shields.io/badge/REST_API-FF6F00?style=for-the-badge&logo=fastapi&logoColor=white)
+
+**Machine Learning & Data Science**
+
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=python&logoColor=white)
+
+**Databases**
+
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white)
+
+**Cloud & DevOps**
+
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+
+</div>
+
+---
+
+### `$ git log --stats`
+
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=girishiam&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=girishiam&layout=compact&theme=tokyonight&hide_border=true"/>
+</div>
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=girishiam&theme=tokyonight&hide_border=true" alt="streak stats"/>
+</div>
+
+---
+
+### `$ find /me --social`
+
+<div align="center">
+
+[![Twitter](https://img.shields.io/badge/@girishh__mondal-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/girishh_mondal)
+[![LinkedIn](https://img.shields.io/badge/girishhmo-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/girishhmo)
+[![Facebook](https://img.shields.io/badge/girishhmo-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://fb.com/girishhmo)
+[![Instagram](https://img.shields.io/badge/@girisshmo-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/girisshmo)
+[![LeetCode](https://img.shields.io/badge/grinchop-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://www.leetcode.com/grinchop)
+
+</div>
+
+---
+
+<div align="center">
+
+```
+"Crafting clean interfaces today. Training smarter systems tomorrow."
+```
+
+![visitors](https://visitor-badge.laobi.icu/badge?page_id=Girishiam.Girishiam&style=for-the-badge)
+
+</div>
