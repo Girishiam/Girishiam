@@ -17,7 +17,7 @@ I build things for the web and train models to make sense of data. My work lives
 - 🔭 &nbsp; Currently deepening expertise in **full-stack development** and **applied ML**
 - 🎯 &nbsp; Goal: Pursue **higher education abroad** to contribute to cutting-edge research
 - 🛠️ &nbsp; Projects live at → **[github.com/Girishiam](https://github.com/Girishiam)**
-- 🌐 &nbsp; Portfolio → **[portfoliyo-updated.vercel.app](https://portfoliyo-updated.vercel.app/)**
+- 🌐 &nbsp; Portfolio → **[portfoliyo-updated.vercel.app]([https://portfoliyo-updated.vercel.app/](https://girish-portfolio-smoky.vercel.app/))**
 - 📬 &nbsp; Reach me at → **girishmondal.28@gmail.com**
 
 ---
