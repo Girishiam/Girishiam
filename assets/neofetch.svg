@@ -1,0 +1,147 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="880" height="500" viewBox="0 0 880 500" role="img" aria-label="Girish Mondal — neofetch profile">
+<defs>
+  <linearGradient id="g" x1="0" y1="0" x2="1" y2="1">
+    <stop offset="0" stop-color="#00d9ff"/><stop offset="1" stop-color="#bc8cff"/>
+  </linearGradient>
+  <linearGradient id="gp" gradientUnits="userSpaceOnUse" x1="44" y1="106" x2="240" y2="197">
+    <stop offset="0" stop-color="#00d9ff"/><stop offset="1" stop-color="#bc8cff"/>
+  </linearGradient>
+  <linearGradient id="glass" x1="0" y1="0" x2="0" y2="1">
+    <stop offset="0" stop-color="#161b22"/><stop offset="1" stop-color="#0d1117"/>
+  </linearGradient>
+  <filter id="glow" x="-20%" y="-20%" width="140%" height="140%">
+    <feGaussianBlur stdDeviation="3" result="b"/><feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge>
+  </filter>
+  <clipPath id="typed"><rect class="typer" x="0" y="52" height="30" width="175"/></clipPath>
+</defs>
+<style>
+  text { font-family: ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, 'Liberation Mono', 'DejaVu Sans Mono', monospace; font-size: 14px; fill: #c9d1d9; white-space: pre; }
+  .dim { fill: #8b949e; } .usr { fill: #3fb950; font-weight: 700; } .path { fill: #58a6ff; font-weight: 700; }
+  .key { fill: #00d9ff; font-weight: 700; } .head { fill: url(#g); font-weight: 700; font-size: 15px; }
+  .art { fill: url(#g); font-size: 16px; }
+  .typer { animation: type 1.1s steps(18, end) 0.5s forwards; }
+  @keyframes type { to { width: 339px; } }
+  .f { opacity: 0; animation: fade 0.35s ease-out forwards; }
+  @keyframes fade { from { opacity: 0; } to { opacity: 1; } }
+  .cursor { opacity: 0; animation: fade 0.01s 5.7s forwards, blink 1s steps(1) 5.7s infinite; }
+  @keyframes blink { 50% { opacity: 0; } }
+  .scan { animation: scan 6s linear infinite; }
+  @keyframes scan { from { transform: translateY(-40px); } to { transform: translateY(500px); } }
+</style>
+<rect x="10" y="10" width="860" height="480" rx="14" fill="url(#glass)" stroke="#30363d"/>
+<path d="M10 44 H870" stroke="#21262d"/>
+<circle cx="34" cy="27" r="6" fill="#ff5f57"/>
+<circle cx="54" cy="27" r="6" fill="#febc2e"/>
+<circle cx="74" cy="27" r="6" fill="#28c840"/>
+<text x="440.0" y="32" text-anchor="middle" class="dim" style="font-size:12px">girish@github — zsh — 88×25</text>
+<rect class="scan" x="11" y="0" width="858" height="40" fill="#00d9ff" opacity="0.025"/>
+<g clip-path="url(#typed)"><text x="40" y="72"><tspan class="usr">girish@dhaka</tspan><tspan class="dim">:</tspan><tspan class="path">~</tspan><tspan class="dim">$ </tspan><tspan>neofetch --profile</tspan></text></g>
+<g>
+<rect class="f" style="animation-delay:1.54s" x="60" y="109" width="11" height="11" rx="2" fill="#bc8cff" opacity="0.28"/>
+<rect class="f" style="animation-delay:1.54s" x="57" y="106" width="11" height="11" rx="2" fill="url(#gp)" filter="url(#glow)"/>
+<rect class="f" style="animation-delay:1.59s" x="73" y="109" width="11" height="11" rx="2" fill="#bc8cff" opacity="0.28"/>
+<rect class="f" style="animation-delay:1.59s" x="70" y="106" width="11" height="11" rx="2" fill="url(#gp)" filter="url(#glow)"/>
+<rect class="f" style="animation-delay:1.64s" x="86" y="109" width="11" height="11" rx="2" fill="#bc8cff" opacity="0.28"/>
+<rect class="f" style="animation-delay:1.64s" x="83" y="106" width="11" height="11" rx="2" fill="url(#gp)" filter="url(#glow)"/>
+<rect class="f" style="animation-delay:1.68s" x="99" y="109" width="11" height="11" rx="2" fill="#bc8cff" opacity="0.28"/>
+<rect class="f" style="animation-delay:1.68s" x="96" y="106" width="11" height="11" rx="2" fill="url(#gp)" filter="url(#glow)"/>
+<rect class="f" style="animation-delay:1.86s" x="151" y="109" width="11" height="11" rx="2" fill="#bc8cff" opacity="0.28"/>
+<rect class="f" style="animation-delay:1.86s" x="148" y="106" width="11" height="11" rx="2" fill="url(#gp)" filter="url(#glow)"/>
+<rect class="f" style="animation-delay:2.13s" x="229" y="109" width="11" height="11" rx="2" fill="#bc8cff" opacity="0.28"/>
+<rect class="f" style="animation-delay:2.13s" x="226" y="106" width="11" height="11" rx="2" fill="url(#gp)" filter="url(#glow)"/>
+<rect class="f" style="animation-delay:1.50s" x="47" y="122" width="11" height="11" rx="2" fill="#bc8cff" opacity="0.28"/>
+<rect class="f" style="animation-delay:1.50s" x="44" y="119" width="11" height="11" rx="2" fill="url(#gp)" filter="url(#glow)"/>
+<rect class="f" style="animation-delay:1.73s" x="112" y="122" width="11" height="11" rx="2" fill="#bc8cff" opacity="0.28"/>
+<rect class="f" style="animation-delay:1.73s" x="109" y="119" width="11" height="11" rx="2" fill="url(#gp)" filter="url(#glow)"/>
+<rect class="f" style="animation-delay:1.86s" x="151" y="122" width="11" height="11" rx="2" fill="#bc8cff" opacity="0.28"/>
+<rect class="f" style="animation-delay:1.86s" x="148" y="119" width="11" height="11" rx="2" fill="url(#gp)" filter="url(#glow)"/>
+<rect class="f" style="animation-delay:1.91s" x="164" y="122" width="11" height="11" rx="2" fill="#bc8cff" opacity="0.28"/>
+<rect class="f" style="animation-delay:1.91s" x="161" y="119" width="11" height="11" rx="2" fill="url(#gp)" filter="url(#glow)"/>
+<rect class="f" style="animation-delay:2.08s" x="216" y="122" width="11" height="11" rx="2" fill="#bc8cff" opacity="0.28"/>
+<rect class="f" style="animation-delay:2.08s" x="213" y="119" width="11" height="11" rx="2" fill="url(#gp)" filter="url(#glow)"/>
+<rect class="f" style="animation-delay:2.13s" x="229" y="122" width="11" height="11" rx="2" fill="#bc8cff" opacity="0.28"/>
+<rect class="f" style="animation-delay:2.13s" x="226" y="119" width="11" height="11" rx="2" fill="url(#gp)" filter="url(#glow)"/>
+<rect class="f" style="animation-delay:1.50s" x="47" y="135" width="11" height="11" rx="2" fill="#bc8cff" opacity="0.28"/>
+<rect class="f" style="animation-delay:1.50s" x="44" y="132" width="11" height="11" rx="2" fill="url(#gp)" filter="url(#glow)"/>
+<rect class="f" style="animation-delay:1.86s" x="151" y="135" width="11" height="11" rx="2" fill="#bc8cff" opacity="0.28"/>
+<rect class="f" style="animation-delay:1.86s" x="148" y="132" width="11" height="11" rx="2" fill="url(#gp)" filter="url(#glow)"/>
+<rect class="f" style="animation-delay:1.95s" x="177" y="135" width="11" height="11" rx="2" fill="#bc8cff" opacity="0.28"/>
+<rect class="f" style="animation-delay:1.95s" x="174" y="132" width="11" height="11" rx="2" fill="url(#gp)" filter="url(#glow)"/>
+<rect class="f" style="animation-delay:2.04s" x="203" y="135" width="11" height="11" rx="2" fill="#bc8cff" opacity="0.28"/>
+<rect class="f" style="animation-delay:2.04s" x="200" y="132" width="11" height="11" rx="2" fill="url(#gp)" filter="url(#glow)"/>
+<rect class="f" style="animation-delay:2.13s" x="229" y="135" width="11" height="11" rx="2" fill="#bc8cff" opacity="0.28"/>
+<rect class="f" style="animation-delay:2.13s" x="226" y="132" width="11" height="11" rx="2" fill="url(#gp)" filter="url(#glow)"/>
+<rect class="f" style="animation-delay:1.50s" x="47" y="148" width="11" height="11" rx="2" fill="#bc8cff" opacity="0.28"/>
+<rect class="f" style="animation-delay:1.50s" x="44" y="145" width="11" height="11" rx="2" fill="url(#gp)" filter="url(#glow)"/>
+<rect class="f" style="animation-delay:1.64s" x="86" y="148" width="11" height="11" rx="2" fill="#bc8cff" opacity="0.28"/>
+<rect class="f" style="animation-delay:1.64s" x="83" y="145" width="11" height="11" rx="2" fill="url(#gp)" filter="url(#glow)"/>
+<rect class="f" style="animation-delay:1.68s" x="99" y="148" width="11" height="11" rx="2" fill="#bc8cff" opacity="0.28"/>
+<rect class="f" style="animation-delay:1.68s" x="96" y="145" width="11" height="11" rx="2" fill="url(#gp)" filter="url(#glow)"/>
+<rect class="f" style="animation-delay:1.73s" x="112" y="148" width="11" height="11" rx="2" fill="#bc8cff" opacity="0.28"/>
+<rect class="f" style="animation-delay:1.73s" x="109" y="145" width="11" height="11" rx="2" fill="url(#gp)" filter="url(#glow)"/>
+<rect class="f" style="animation-delay:1.86s" x="151" y="148" width="11" height="11" rx="2" fill="#bc8cff" opacity="0.28"/>
+<rect class="f" style="animation-delay:1.86s" x="148" y="145" width="11" height="11" rx="2" fill="url(#gp)" filter="url(#glow)"/>
+<rect class="f" style="animation-delay:2.00s" x="190" y="148" width="11" height="11" rx="2" fill="#bc8cff" opacity="0.28"/>
+<rect class="f" style="animation-delay:2.00s" x="187" y="145" width="11" height="11" rx="2" fill="url(#gp)" filter="url(#glow)"/>
+<rect class="f" style="animation-delay:2.13s" x="229" y="148" width="11" height="11" rx="2" fill="#bc8cff" opacity="0.28"/>
+<rect class="f" style="animation-delay:2.13s" x="226" y="145" width="11" height="11" rx="2" fill="url(#gp)" filter="url(#glow)"/>
+<rect class="f" style="animation-delay:1.50s" x="47" y="161" width="11" height="11" rx="2" fill="#bc8cff" opacity="0.28"/>
+<rect class="f" style="animation-delay:1.50s" x="44" y="158" width="11" height="11" rx="2" fill="url(#gp)" filter="url(#glow)"/>
+<rect class="f" style="animation-delay:1.73s" x="112" y="161" width="11" height="11" rx="2" fill="#bc8cff" opacity="0.28"/>
+<rect class="f" style="animation-delay:1.73s" x="109" y="158" width="11" height="11" rx="2" fill="url(#gp)" filter="url(#glow)"/>
+<rect class="f" style="animation-delay:1.86s" x="151" y="161" width="11" height="11" rx="2" fill="#bc8cff" opacity="0.28"/>
+<rect class="f" style="animation-delay:1.86s" x="148" y="158" width="11" height="11" rx="2" fill="url(#gp)" filter="url(#glow)"/>
+<rect class="f" style="animation-delay:2.13s" x="229" y="161" width="11" height="11" rx="2" fill="#bc8cff" opacity="0.28"/>
+<rect class="f" style="animation-delay:2.13s" x="226" y="158" width="11" height="11" rx="2" fill="url(#gp)" filter="url(#glow)"/>
+<rect class="f" style="animation-delay:1.50s" x="47" y="174" width="11" height="11" rx="2" fill="#bc8cff" opacity="0.28"/>
+<rect class="f" style="animation-delay:1.50s" x="44" y="171" width="11" height="11" rx="2" fill="url(#gp)" filter="url(#glow)"/>
+<rect class="f" style="animation-delay:1.73s" x="112" y="174" width="11" height="11" rx="2" fill="#bc8cff" opacity="0.28"/>
+<rect class="f" style="animation-delay:1.73s" x="109" y="171" width="11" height="11" rx="2" fill="url(#gp)" filter="url(#glow)"/>
+<rect class="f" style="animation-delay:1.86s" x="151" y="174" width="11" height="11" rx="2" fill="#bc8cff" opacity="0.28"/>
+<rect class="f" style="animation-delay:1.86s" x="148" y="171" width="11" height="11" rx="2" fill="url(#gp)" filter="url(#glow)"/>
+<rect class="f" style="animation-delay:2.13s" x="229" y="174" width="11" height="11" rx="2" fill="#bc8cff" opacity="0.28"/>
+<rect class="f" style="animation-delay:2.13s" x="226" y="171" width="11" height="11" rx="2" fill="url(#gp)" filter="url(#glow)"/>
+<rect class="f" style="animation-delay:1.54s" x="60" y="187" width="11" height="11" rx="2" fill="#bc8cff" opacity="0.28"/>
+<rect class="f" style="animation-delay:1.54s" x="57" y="184" width="11" height="11" rx="2" fill="url(#gp)" filter="url(#glow)"/>
+<rect class="f" style="animation-delay:1.59s" x="73" y="187" width="11" height="11" rx="2" fill="#bc8cff" opacity="0.28"/>
+<rect class="f" style="animation-delay:1.59s" x="70" y="184" width="11" height="11" rx="2" fill="url(#gp)" filter="url(#glow)"/>
+<rect class="f" style="animation-delay:1.64s" x="86" y="187" width="11" height="11" rx="2" fill="#bc8cff" opacity="0.28"/>
+<rect class="f" style="animation-delay:1.64s" x="83" y="184" width="11" height="11" rx="2" fill="url(#gp)" filter="url(#glow)"/>
+<rect class="f" style="animation-delay:1.68s" x="99" y="187" width="11" height="11" rx="2" fill="#bc8cff" opacity="0.28"/>
+<rect class="f" style="animation-delay:1.68s" x="96" y="184" width="11" height="11" rx="2" fill="url(#gp)" filter="url(#glow)"/>
+<rect class="f" style="animation-delay:1.86s" x="151" y="187" width="11" height="11" rx="2" fill="#bc8cff" opacity="0.28"/>
+<rect class="f" style="animation-delay:1.86s" x="148" y="184" width="11" height="11" rx="2" fill="url(#gp)" filter="url(#glow)"/>
+<rect class="f" style="animation-delay:2.13s" x="229" y="187" width="11" height="11" rx="2" fill="#bc8cff" opacity="0.28"/>
+<rect class="f" style="animation-delay:2.13s" x="226" y="184" width="11" height="11" rx="2" fill="url(#gp)" filter="url(#glow)"/>
+</g>
+<text x="44" y="226" class="dim f" style="animation-delay:2.2s">// code · train · ship</text>
+<text x="44" y="250" class="dim f" style="animation-delay:2.3s">// java · python · coffee</text>
+<text x="44" y="300" class="f" style="font-size:12px;animation-delay:2.50s"><tspan class="dim">$ </tspan>./mvnw spring-boot:run</text>
+<text x="44" y="320" class="f" style="font-size:12px;animation-delay:3.10s"><tspan fill="#3fb950">✓</tspan><tspan class="dim"> Started App in </tspan><tspan fill="#3fb950">1.9s</tspan></text>
+<text x="44" y="352" class="f" style="font-size:12px;animation-delay:3.50s"><tspan class="dim">$ </tspan>python train.py --epochs 3</text>
+<g class="f" style="animation-delay:3.80s"><text x="44" y="372" style="font-size:12px"><tspan class="dim">epoch</tspan></text><rect x="92" y="363" width="110" height="10" rx="2" fill="#21262d"/><rect class="bar" x="92" y="363" width="0" height="10" rx="2" fill="url(#gp)"/><text x="210" y="372" class="acc" style="font-size:12px">acc 0.97</text></g>
+<style>.bar{animation:grow 1.6s ease-in-out 3.90s forwards}@keyframes grow{to{width:110px}}.acc{fill:#3fb950;opacity:0;animation:fade .3s 5.50s forwards}</style>
+<text x="300" y="110" class="f" style="animation-delay:1.5s"><tspan class="head">girish</tspan><tspan class="dim">@</tspan><tspan class="head">mondal</tspan></text>
+<text x="300" y="128" class="dim f" style="animation-delay:1.5s">─────────────</text>
+<text x="300" y="152" class="f" style="animation-delay:1.65s"><tspan class="key">Location</tspan><tspan x="393">Bangladesh</tspan></text>
+<text x="300" y="174" class="f" style="animation-delay:1.81s"><tspan class="key">Education</tspan><tspan x="393">B.Sc. in Computer Science &amp; Engineering, 2023</tspan></text>
+<text x="300" y="196" class="f" style="animation-delay:1.97s"><tspan class="key">Role</tspan><tspan x="393">Full-Stack Developer · ML Enthusiast</tspan></text>
+<text x="300" y="218" class="f" style="animation-delay:2.13s"><tspan class="key">Languages</tspan><tspan x="393">Java · Python · JavaScript · C · C++</tspan></text>
+<text x="300" y="240" class="f" style="animation-delay:2.29s"><tspan class="key">Backend</tspan><tspan x="393">Spring Boot · Django · FastAPI · Node.js</tspan></text>
+<text x="300" y="262" class="f" style="animation-delay:2.45s"><tspan class="key">Frontend</tspan><tspan x="393">React · Tailwind · Sass · Bootstrap</tspan></text>
+<text x="300" y="284" class="f" style="animation-delay:2.61s"><tspan class="key">ML</tspan><tspan x="393">PyTorch · scikit-learn · Pandas · NumPy</tspan></text>
+<text x="300" y="306" class="f" style="animation-delay:2.77s"><tspan class="key">Databases</tspan><tspan x="393">PostgreSQL · MySQL · SQLite</tspan></text>
+<text x="300" y="328" class="f" style="animation-delay:2.93s"><tspan class="key">DevOps</tspan><tspan x="393">Docker · GitHub Actions · Git · Linux</tspan></text>
+<text x="300" y="350" class="f" style="animation-delay:3.09s"><tspan class="key">Currently</tspan><tspan x="393">Deepening full-stack &amp; applied ML skills</tspan></text>
+<text x="300" y="372" class="f" style="animation-delay:3.25s"><tspan class="key">Goal</tspan><tspan x="393">Higher studies abroad, then research</tspan></text>
+<rect class="f" style="animation-delay:3.41s" x="300" y="402" width="24" height="16" rx="3" fill="#30363d"/>
+<rect class="f" style="animation-delay:3.46s" x="328" y="402" width="24" height="16" rx="3" fill="#ff7b72"/>
+<rect class="f" style="animation-delay:3.51s" x="356" y="402" width="24" height="16" rx="3" fill="#3fb950"/>
+<rect class="f" style="animation-delay:3.56s" x="384" y="402" width="24" height="16" rx="3" fill="#d29922"/>
+<rect class="f" style="animation-delay:3.61s" x="412" y="402" width="24" height="16" rx="3" fill="#58a6ff"/>
+<rect class="f" style="animation-delay:3.66s" x="440" y="402" width="24" height="16" rx="3" fill="#bc8cff"/>
+<rect class="f" style="animation-delay:3.71s" x="468" y="402" width="24" height="16" rx="3" fill="#00d9ff"/>
+<rect class="f" style="animation-delay:3.76s" x="496" y="402" width="24" height="16" rx="3" fill="#e6edf3"/>
+<text x="40" y="462" class="f" style="animation-delay:5.6s"><tspan class="usr">girish@dhaka</tspan><tspan class="dim">:</tspan><tspan class="path">~</tspan><tspan class="dim">$ </tspan></text>
+<rect class="cursor" x="167" y="449" width="9" height="17" fill="#00d9ff"/>
+</svg>
