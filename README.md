@@ -21,12 +21,6 @@
 
 <br/>
 
-<p align="center"><code>$ snake --eat contributions</code></p>
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Girishiam/Girishiam/output/github-snake.svg" alt="contribution snake" />
-</p>
-
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=Girishiam&label=visitors&color=0d1117&style=flat-square&labelColor=00D9FF" alt="visitors" />
 </p>
