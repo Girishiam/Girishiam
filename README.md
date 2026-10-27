@@ -15,11 +15,7 @@
 <p align="center"><code>$ git log --stats</code></p>
 
 <p align="center">
-  <img height="180" src="https://github-readme-stats.vercel.app/api?username=Girishiam&show_icons=true&hide_border=true&count_private=true&bg_color=0d1117&title_color=00D9FF&icon_color=BC8CFF&text_color=c9d1d9" alt="stats" />
   <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Girishiam&layout=compact&langs_count=6&hide_border=true&bg_color=0d1117&title_color=00D9FF&text_color=c9d1d9" alt="top languages" />
-</p>
-
-<p align="center">
   <img height="180" src="https://streak-stats.demolab.com/?user=Girishiam&hide_border=true&background=0D1117&ring=BC8CFF&fire=00D9FF&currStreakLabel=00D9FF&currStreakNum=FFFFFF&sideNums=FFFFFF&sideLabels=C9D1D9&dates=8B949E&stroke=30363D" alt="streak" />
 </p>
 
