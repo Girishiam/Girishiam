@@ -18,7 +18,12 @@ jobs:
         with:
           github_user_name: ${{ github.repository_owner }}
           outputs: |
-            dist/github-snake.svg?color_snake=#00D9FF&color_dots=#161b22,#3b2a63,#5e3fa3,#8b63d9,#bc8cff&color_dot_border=#0d1117&color_background=#0d1117
+            dist/github-snake.svg?color_snake=#00D9FF&color_dots=#1c2230,#6a3fc7,#9161f0,#b58cff,#e0ccff&color_dot_border=#0d1117
+
+      # snk leaves the background transparent; add a dark card behind it
+      - name: Add dark background
+        run: |
+          sudo sed -i -E 's|<svg viewBox="([-0-9.]+) ([-0-9.]+) ([0-9.]+) ([0-9.]+)"[^>]*>|&<rect x="\1" y="\2" width="\3" height="\4" rx="10" fill="#0d1117"/>|' dist/github-snake.svg
 
       - uses: crazy-max/ghaction-github-pages@v4
         with:
